@@ -22,7 +22,7 @@ class Skills extends Component {
               <div key={index} className="col-6">
                 <p className="list-item">
                   <FontAwesomeIcon icon={faCheckCircle} color="green" />
-                  <span className="ml-3">{data.name}</span>
+                  <span className="ml-3 skills"><a href={data.link} rel="noopener noreferrer" target="_blank">{data.name}</a></span>
                 </p>
               </div>
             ))
