@@ -1,6 +1,0 @@
-@media screen and (max-device-width:640px), screen and (max-width:640px) {
-    .nameCustom{
-        display: flex;
-        flex-direction: column;
-    }
-}
