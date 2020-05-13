@@ -3,7 +3,9 @@
 		"firstName": "Shubham",
 		"lastName": "Kaudewar",
 		"phoneNumber": "+91-8657528799",
-		"bio": "I am a Full-Stack Developer who contributed my knowledge in various forms. My tech stack includes Python, PHP, and Javascript. Python for server-side and scripting and Javascript for the frontend. I use the Django framework for server-side development and React for frontend  evelopment. Experienced MySQL, SQLite, JSON, MongoDB such databases till now. I was Web Manager at NSS IIT-Bombay for tenure 2019-20 at my institute where I am responsible for building dynamic sites for the NSS community. I am 3rd year UG B.Tech Chemical Engineering student at IIT-Bombay.",
+		"bio1": "(Hi !) I am currently a pre-final year undergraduate student pursuing Chemical Engineering from IIT Bombay. I am also a coding enthusiast and with time I have evolved to be a full-stack developer. I was also nominated to be the Web Manager of NSS IIT Bombay: The largest social volunteer body of IIT Bombay where I was responsible to apply my expertise and build dynamic sites/pages.",
+		"bioHead": "Technical Proficiencies:",
+		"bio2": "My tech stack includes Python and Javascript. I have predominantly used Python for server-side scripting mainly in the Django framework, while Javascript for frontend in the React environment. I am also highly capable of working with databases like MySQL, SQLite, JSON, and MongoDB.",
     "email": "kaudewar@gmail.com",
     "linkedin": "https://www.linkedin.com/in/shubham-kaudewar-736ab6137/",
 	"github": "https://github.com/ShubhamKaudewar",
@@ -16,21 +18,21 @@
 		{
 				"position": "Web & Design Head",
 				"organization": "NSS IIT-Bombay",
-				"aboutWork": "Developed website Birds of IIT-Bombay detailed information like name to identification sound fetching data from database SQL. With mobile responsive ajax-jQuery search bar. Modified OLI Video Downloader fetching from SQL with PHP and creative UI/UX Design. Diagnosed error and implemented solutions on apache Server for web hosting of php files manage SSH connection and files transferserver through FileZilla software Best optimized sites with Google Chrome Search Engine Optimization technique with chrome lighthouse and diagnosed problems and have skills able to sort out bugs in console",
+				"aboutWork": "As a Web-Head, I was responsible for the development of client-side and server-side scripting programming languages. Build many dynamic user-friendly sites.",
 				"fromDate": "April 2019",
 				"toDate": "April 2020"
 		},
 		{
 			"position": "SME Intern",
 			"organization": "TutorMate Edu.",
-			"aboutWork": "Helped in content creation and curriculum development keeping the companies' protocol Subject Matter Expert of physics subject in content development of NCERT, MHCET, IITJEE, NEET in office work. Achieved excellency in Microsoft word software and MathType. Part of a team and successfully able to complete daily task within deadline over the month",
+			"aboutWork": "Worked in a team on content writing and management system. Achieved proficiency in MathType and Microsoft Office. Completed task within deadline and kept companies protocol",
 			"fromDate": "December 2019",
 			"toDate": "January 2020"
 		},
 		{
 			"position": "Hospitality & PR Coordinator",
 			"organization": "Mood Indigo",
-			"aboutWork": "I was Coordinator at Hospitality and Public Relation Department.Positioning for College Ambassador at different colleges for publicity and conducting school and college level short events for showing MI events and giving points to respective CR Conducted college publicity drive in Mumbai colleges to increase fest participants by 10%. Managed accommodation and logistics for accommodation of 200 participants",
+			"aboutWork": "I was Coordinator at Hospitality and PR Team. Positioning for College Ambassador for college publicity drive. Arranged events in local colleagues. Crowd management during fest and helped team for smooth execution of an event",
 			"fromDate": "December 2018",
 			"toDate": "January 2019"
 		}
@@ -140,13 +142,10 @@
 			"awardDetail": "Achieved 100% in SEO Chrome Light House Audit"
 		},
 		{
+			"awardDetail": "Amongst the top 99 percentile in JEE-Advanced 2017"
+		},
+		{
 			"awardDetail": "First Rank in District in MTSE Exam in 2013"
-		},
-		{
-			"awardDetail": "Successfully completed Crossy-GC track (Running Race) 3 times till now"
-		},
-		{
-			"awardDetail": "Participated in Gyration (Dance General Championship) and the team got 2nd position"
 		}
 	]
 }

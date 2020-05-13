@@ -18,7 +18,9 @@ class Landing extends Component {
           <div className="subheading mb-5">{this.landingData.phoneNumber} ·
             <a href="mailto:name@email.com">{this.landingData.email}</a>
           </div>
-          <p className="lead mb-5">{this.landingData.bio}</p>
+          <p className="lead mb-5">{this.landingData.bio1}</p>
+          <div className="subheading mb-3">{this.landingData.bioHead}</div>
+          <p className="lead mb-5">{this.landingData.bio2}</p>
           <div className="social-icons">
             <a href={this.landingData.linkedin}>
               <FontAwesomeIcon icon={faLinkedin} />
