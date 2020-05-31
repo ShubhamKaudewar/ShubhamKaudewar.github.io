@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin, faHackerrank, faFacebook, faInstagram ,faDigitalOcean} from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedin, faHackerrank, faDigitalOcean, faCodepen} from '@fortawesome/free-brands-svg-icons';
 
 class Landing extends Component {
   constructor(props) {
@@ -22,9 +22,6 @@ class Landing extends Component {
           <div className="subheading mb-3">{this.landingData.bioHead}</div>
           <p className="lead mb-5">{this.landingData.bio2}</p>
           <div className="social-icons">
-            <a href={this.landingData.linkedin}>
-              <FontAwesomeIcon icon={faLinkedin} />
-            </a>
             <a href={this.landingData.github}>
               <FontAwesomeIcon icon={faGithub} />
             </a>
@@ -34,11 +31,11 @@ class Landing extends Component {
             <a href={this.landingData.sololearn}>
               <FontAwesomeIcon icon={faDigitalOcean} />
             </a>
-            <a href={this.landingData.facebook}>
-              <FontAwesomeIcon icon={faFacebook} />
+            <a href={this.landingData.coderrank}>
+              <FontAwesomeIcon icon={faCodepen} />
             </a>
-            <a href={this.landingData.instagram}>
-              <FontAwesomeIcon icon={faInstagram} />
+            <a href={this.landingData.linkedin}>
+              <FontAwesomeIcon icon={faLinkedin} />
             </a>
           </div>
         </div>
