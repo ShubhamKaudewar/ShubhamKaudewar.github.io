@@ -15,6 +15,13 @@
 	},
 	"experience": [
 		{
+				"position": "Django Developer",
+				"organization": "RacerFly",
+				"aboutWork": "As a python backend developer. I built modules for e-commerce sites for flexible CMS. I used jQuery, AJAX, Vanilla JS for client-side, and python for the backend along with SQLite database. For UI used BootStrap 4 CSS Library.Integrated RazorPay payment gateway and Twilio SMS Service.Worked on cookies and csrf_tokens. For Deployment Heroku Used and familiar with AWS LightSail.",
+				"fromDate": "June 2020",
+				"toDate": "June 2020"
+		},
+		{
 				"position": "Web & Design Head",
 				"organization": "NSS IIT-Bombay",
 				"aboutWork": "As a Web-Head, I was responsible for the development of client-side and server-side scripting programming languages. Build many dynamic user-friendly sites.",
@@ -132,13 +139,16 @@
 		"paragraphTwo": "When forced indoors, I follow many sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
 	},
 	"awards": [{
-			"awardDetail": "Achieved 4 Gold badges on HackerRank"
+			"awardDetail": "5 Gold and 1 silver badges along with 3 Verified Skills Certification on HackerRank"
 		},
 		{
 			"awardDetail": "Certified in 5 programming courses on Sololearn"
 		},
 		{
 			"awardDetail": "Achieved 100% in SEO Chrome Light House Audit"
+		},
+		{
+			"awardDetail": "Typing speed 85 WPM in top 4% of world"
 		},
 		{
 			"awardDetail": "Amongst the top 99 percentile in JEE-Advanced 2017"
