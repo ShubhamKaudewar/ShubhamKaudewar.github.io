@@ -3,10 +3,14 @@
 		"firstName": "Shubham",
 		"lastName": "Kaudewar",
 		"phoneNumber": "+91-8657528799",
-		"bio1": "(Hi !) I am a final year undergraduate student pursuing Chemical Engineering from IIT Bombay. I am also a coding enthusiast and with time I have evolved to be a full-stack developer. I was also nominated to be the Web Manager of NSS IIT Bombay: The largest social volunteer body of IIT Bombay where I was responsible to apply my expertise and build dynamic sites/pages.",
+		"companyUrl": "https://wealthdesk.in/",
+		"companyName": "WealthDesk Technologies Pvt. Ltd.",
+		"bio_1": "Hi I am Software/Platform Engineer at ",
+		"bio_2": "I graduated in stream Chemical Engineering from IIT Bombay'21. I am also a coding enthusiast and with time I have evolved to be a full-stack developer. I was also nominated to be the Web Manager of NSS IIT Bombay: The largest social volunteer body of IIT Bombay where I was responsible to apply my expertise and build dynamic sites/pages.",
 		"bioHead": "Technical Proficiencies:",
 		"bio2": "My tech stack includes Python and Javascript. I have predominantly used Python for server-side scripting mainly in the Django framework, while Javascript for frontend in the React environment. I am also highly capable of working with databases like MySQL, SQLite, JSON, and MongoDB.",
-    "email": "kaudewar@gmail.com",
+    "email": " | kaudewar@gmail.com",
+	"companyEmail": " | shubham.kaudewar@wealthtech.in",
     "coderrank": "https://profile.codersrank.io/user/shubhamkaudewar/",
     "linkedin": "https://www.linkedin.com/in/shubham-kaudewar-736ab6137/",
 	"github": "https://github.com/ShubhamKaudewar",
@@ -14,6 +18,20 @@
 	"sololearn": "https://www.sololearn.com/Profile/374584"
 	},
 	"experience": [
+		{
+				"position": "AWS Cloud Computing",
+				"organization": "Wealthdesk Technologies Pvt Ltd",
+				"aboutWork": "I am working on AWS Cloud computing with serverless applications with help of AWS-SAM. Backend with python and apache template. IDE is PyCharm with Docker and AWS CDK",
+				"fromDate": "June 2020",
+				"toDate": "Present"
+		},
+		{
+				"position": "Node Developer",
+				"organization": "AFO Technologies Pvt Ltd",
+				"aboutWork": "As a node backend developer. I am able to integrate data APIs with firebase. Hands on experience of bubble.io software. I just postman and firebase emulator for testing and development",
+				"fromDate": "Jan 2021",
+				"toDate": "Apr 2021"
+		},
 		{
 				"position": "Full-Stack Developer",
 				"organization": "Porsio Marketplace PVT LTD",
@@ -49,10 +67,18 @@
 			"branch": "Chemical",
 			"year": "Thirdie",
 			"fromDate": "July 2017",
-			"toDate": "Present"
+			"toDate": "August 2021"
 		}
 	],
 	"skills": [
+		{
+			"name": "AWS",
+			"link": "https://aws.amazon.com/"
+		},
+		{
+			"name": "Apache Velocity",
+			"link": "https://velocity.apache.org/"
+		},
 		{
 			"name": "Python",
 			"link": "https://www.python.org/"
@@ -60,6 +86,14 @@
 		{
 			"name": "Django",
 			"link": "https://www.djangoproject.com/"
+		},
+		{
+			"name": "Heroku",
+			"link": "https://www.heroku.com/"
+		},
+		{
+			"name": "Docker",
+			"link": "https://www.docker.com/"
 		},
 		{
 			"name": "PHP",
