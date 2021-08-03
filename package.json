@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^7.1.2",
     "caniuse-lite": "^1.0.30001177",
     "gh-pages": "^2.2.0",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-scripts": "^4.0.3"
