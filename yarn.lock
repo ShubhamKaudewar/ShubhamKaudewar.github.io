@@ -7987,9 +7987,9 @@ react-error-overlay@^6.0.9:
   version "6.0.9"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
 
-react-ga@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.npmjs.org/react-ga/-/react-ga-2.7.0.tgz"
+react-ga@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/react-ga/-/react-ga-3.3.1.tgz#d8e1f4e05ec55ed6ff944dcb14b99011dfaf9504"
 
 react-is@^16.8.1, react-is@^16.8.4:
   version "16.13.1"
