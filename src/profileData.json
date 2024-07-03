@@ -4,13 +4,12 @@
 		"lastName": "Kaudewar",
 		"phoneNumber": "+91-8657528799",
 		"companyUrl": "https://wealthdesk.in/",
-		"companyName": "WealthDesk Technologies Pvt. Ltd.",
-		"bio_1": "Hi I am Software/Platform Engineer at ",
-		"bio_2": "I graduated in stream Chemical Engineering from IIT Bombay'21. I am also a coding enthusiast and with time I have evolved to be a full-stack developer. I was also nominated to be the Web Manager of NSS IIT Bombay: The largest social volunteer body of IIT Bombay where I was responsible to apply my expertise and build dynamic sites/pages.",
+		"companyName": "",
+		"bio_1": "",
+		"bio_2": "Hi, I graduated in Chemical Engineering from IIT Bombay in 2021. I am a coding enthusiast and have evolved into a full-stack developer. I was nominated as the Web Manager of NSS IIT Bombay, the largest social volunteer body at IIT Bombay, where I applied my expertise to build dynamic websites and pages. Previously, I worked as a Software/Platform Engineer at WealthDesk Technologies Pvt. Ltd.",
 		"bioHead": "Technical Proficiencies:",
 		"bio2": "My tech stack includes Python and Javascript. I have predominantly used Python for server-side scripting mainly in the Django framework, while Javascript for frontend in the React environment. I am also highly capable of working with databases like MySQL, SQLite, JSON, and MongoDB.",
     "email": " | kaudewar@gmail.com",
-	"companyEmail": " | shubham.kaudewar@wealthtech.in",
     "coderrank": "https://profile.codersrank.io/user/shubhamkaudewar/",
     "linkedin": "https://www.linkedin.com/in/shubham-kaudewar-736ab6137/",
 	"github": "https://github.com/ShubhamKaudewar",
@@ -19,32 +18,32 @@
 	},
 	"experience": [
 		{
-				"position": "AWS Cloud Computing",
-				"organization": "Wealthdesk Technologies Pvt Ltd",
-				"aboutWork": "I am working on AWS Cloud computing with serverless applications with help of AWS-SAM. Backend with python and apache template. IDE is PyCharm with Docker and AWS CDK",
-				"fromDate": "June 2020",
-				"toDate": "Present"
+			"position": "Platform Engineer",
+			"organization": "Wealthdesk Technologies Pvt Ltd",
+			"aboutWork": "I developed the broker gateway (EWG) at WealthDesk Technologies, handling logins for over 60K+ platform users using AWS, Python, and REST APIs. This project incorporated industry best practices such as Python interfaces, SOLID design principles, and optimization techniques to improve API response times, with robust exception handling for bug tracing. \nDuring my tenure, I gained insights into the roles of brokers, advisors, investors, and market dynamics. I implemented an eNACH auto-debit system for recurring payments, including SIP in WealthBasket and recurring fees. Additionally, I designed and developed various microservices, including analytics dashboards for partners. My daily responsibilities included liaising with over 10 big brokers' tech teams for API integration, reading API documentation, executing database queries, managing deployments across multiple development environments, conducting QA testing, and setting up CI/CD pipelines.",
+			"fromDate": "June 2021",
+			"toDate": "August 2022"
 		},
 		{
-				"position": "Node Developer",
-				"organization": "AFO Technologies Pvt Ltd",
-				"aboutWork": "As a node backend developer. I am able to integrate data APIs with firebase. Hands on experience of bubble.io software. I just postman and firebase emulator for testing and development",
-				"fromDate": "Jan 2021",
-				"toDate": "Apr 2021"
+			"position": "Node Developer",
+			"organization": "AFO Technologies Pvt Ltd",
+			"aboutWork": "As a node backend developer. I am able to integrate data APIs with firebase. Hands on experience of bubble.io software. I just postman and firebase emulator for testing and development",
+			"fromDate": "Jan 2021",
+			"toDate": "Apr 2021"
 		},
 		{
-				"position": "Full-Stack Developer",
-				"organization": "Porsio Marketplace PVT LTD",
-				"aboutWork": "As a python backend developer. I built modules for e-commerce sites for flexible CMS. I used jQuery, AJAX, Vanilla JS for client-side, and python for the backend along with SQLite database. For UI used BootStrap 4 CSS Library.Integrated RazorPay payment gateway and Twilio SMS Service.Worked on cookies and csrf_tokens. For Deployment Heroku Used and familiar with AWS LightSail.",
-				"fromDate": "June 2020",
-				"toDate": "June 2020"
+			"position": "Full-Stack Developer",
+			"organization": "Porsio Marketplace PVT LTD",
+			"aboutWork": "As a python backend developer. I built modules for e-commerce sites for flexible CMS. I used jQuery, AJAX, Vanilla JS for client-side, and python for the backend along with SQLite database. For UI used BootStrap 4 CSS Library.Integrated RazorPay payment gateway and Twilio SMS Service.Worked on cookies and csrf_tokens. For Deployment Heroku Used and familiar with AWS LightSail.",
+			"fromDate": "June 2020",
+			"toDate": "June 2020"
 		},
 		{
-				"position": "Web & Design Head",
-				"organization": "NSS IIT-Bombay",
-				"aboutWork": "As a Web-Head, I was responsible for the development of client-side and server-side scripting programming languages. Build many dynamic user-friendly sites.",
-				"fromDate": "April 2019",
-				"toDate": "April 2020"
+			"position": "Web & Design Head",
+			"organization": "NSS IIT-Bombay",
+			"aboutWork": "As a Web-Head, I was responsible for the development of client-side and server-side scripting programming languages. Build many dynamic user-friendly sites.",
+			"fromDate": "April 2019",
+			"toDate": "April 2020"
 		},
 		{
 			"position": "SME Intern",
@@ -62,10 +61,10 @@
 		}
 	],
 	"education": [{
-			"university": "Indian Institute of Technology Bombay",
+			"university": "Indian Institute of Technology, Bombay",
 			"degree": "Bachelor of Technology",
-			"branch": "Chemical",
-			"year": "Thirdie",
+			"branch": "Chemical Engineering",
+			"year": "Graduate",
 			"fromDate": "July 2017",
 			"toDate": "August 2021"
 		}
